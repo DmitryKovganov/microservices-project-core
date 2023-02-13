@@ -29,14 +29,4 @@ export interface FindOneResponse {
   data: FindOneData | undefined;
 }
 
-export interface DecreaseStockRequest {
-  id: number;
-  orderId: number;
-}
-
-export interface DecreaseStockResponse {
-  status: number;
-  error: string[];
-}
-
 export const PRODUCT_SERVICE_NAME = 'ProductService';

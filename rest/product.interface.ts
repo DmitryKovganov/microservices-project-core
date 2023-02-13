@@ -38,3 +38,5 @@ export interface DecreaseStockResponse {
   status: number;
   error: string[];
 }
+
+export const PRODUCT_SERVICE_NAME = 'ProductService';

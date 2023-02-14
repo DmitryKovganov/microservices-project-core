@@ -1,6 +1,6 @@
 {
   "name": "@dmitry.kovganov/core",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/DmitryKovganov/microservices-project-core/issues"
   },
-  "homepage": "https://github.com/DmitryKovganov/microservices-project-core#readme"
+  "homepage": "https://github.com/DmitryKovganov/microservices-project-core#readme",
+  "type": "module"
 }
